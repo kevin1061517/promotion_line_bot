@@ -5,9 +5,9 @@
 
 內容: 
 ------- 
-當一開始進去時會看到下方的Richmenu，如下
-![image](https://github.com/kevin1061517/promotion_line_bot/blob/master/richmenu.jpg)
-
+當一開始進去時會看到下方的Richmenu，如下介紹
+![image](https://i.imgur.com/hyFh72w.png)
+1.KaKa
 
 
 檔案: 
