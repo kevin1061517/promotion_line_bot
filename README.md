@@ -8,8 +8,11 @@
 當一開始進去時會看到下方的Richmenu，如下介紹
 ![image](https://i.imgur.com/aX2HQN5.png)
 1.`KaKa world`為進入我自己的歷程作介紹，當中有利用rich menu的API來做rich menu的轉換，讓user更輕易看出之中的變化，而且利用rich menu可以更清楚呈現我想要表達的內容。
+
 2.`Hobby`為我自己的興趣彙整，並利用python爬蟲技術，爬取一些資訊來清楚呈現出來。
+
 3.`Menu`Menu為彙整所有重要的選項，都集中在這個Menu裡面，但裡面多了獨特的兩個選項，一個為用LIFF開啟我的blog，二為讓user傳訊息給我本人，這部分期待能收到鼓勵的話或是更多建議給我。
+
 4.`Github`為用LIFF開啟我自己的GitHub來給user查看。
 
 檔案: 
