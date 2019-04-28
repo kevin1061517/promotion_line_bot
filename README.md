@@ -6,7 +6,7 @@
 內容: 
 ------- 
 當一開始進去時會看到下方的Richmenu，如下介紹
-![image](https://i.imgur.com/aX2HQN5.png)
+![image](https://i.imgur.com/RRXy2HY.png)
 1.`KaKa world`為進入我自己的歷程作介紹，當中有利用rich menu的API來做rich menu的轉換，讓user更輕易看出之中的變化，而且利用rich menu可以更清楚呈現我想要表達的內容。
 
 2.`Hobby`為我自己的興趣彙整，並利用python爬蟲技術，爬取一些資訊來清楚呈現出來。
