@@ -6,7 +6,7 @@
 內容: 
 ------- 
 當一開始進去時會看到下方的Richmenu，如下介紹
-![image](https://i.imgur.com/hyFh72w.png)
+![image](https://i.imgur.com/aX2HQN5.png)
 1.KaKa
 
 
