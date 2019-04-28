@@ -3,7 +3,3 @@ Flask
 line-bot-sdk
 python-firebase
 gunicorn
-
-
-
-
