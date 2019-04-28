@@ -11,10 +11,8 @@
 
 檔案: 
 ------- 
-我的檔案結構主要是由main_Bot.py加入line bot api來處理input進來的user訊息，而web_crawler.py裡面的方法(function)來處理爬蟲相關問題。
-
-
-
+1. `main_Bot.py`    加入line bot api來處理input進來的user訊息
+2. `web_crawler.py` 裡面的方法(function)來處理爬蟲相關問題。
 
 QR-code: 
 ------- 
