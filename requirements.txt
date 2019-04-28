@@ -1,0 +1,9 @@
+beautifulsoup4
+Flask
+line-bot-sdk
+python-firebase
+gunicorn
+
+
+
+
