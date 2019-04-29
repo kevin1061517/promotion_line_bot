@@ -6,11 +6,17 @@
 特色: 
 ------- 
 1.完全Rule-based導向設計
+
 2.使用許多Line message api，像是QuickReply、Buttonstemplate、richmenu、Flex message.....)
+
 3.資料庫使用Google的Firebase
+
 4.Webhook伺服器使用Heroku
+
 5.程式語言使用python
+
 6.結合了一些爬蟲程式
+
 7.以KaKa_bot來promote我自己特色和介紹歷程
 
 內容: 
